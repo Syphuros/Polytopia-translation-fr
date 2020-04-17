@@ -45,9 +45,9 @@
   "tribepicker.topscore.next": "{0} pour la prochaine étoile ",
   "tribepicker.players": "{0} joueurs",
   "tribepicker.mapsize": "Taille de la carte : {0} carreaux",
-  "tribepicker.gamemode": "Mode de jeu" : {0}",
+  "tribepicker.gamemode": "Mode de jeu: {0}",
 
-  "gamesettings.title": " RÉGLAGE DE LA PARTIE",
+  "gamesettings.title": "RÉGLAGE DE LA PARTIE",
   "gamesettings.yourname": "Votre nom",
   "gamesettings.anonymous": "Anonyme",
   "gamesettings.gamename": "Nom du jeu",
