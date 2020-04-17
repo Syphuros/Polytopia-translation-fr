@@ -217,7 +217,7 @@
   "building.ability.embark": "Les unités qui se déplacent ici se transforment en bateaux qui peuvent se déplacer sur l'eau",
   "building.ability.route": "Il crée des routes commerciales par {0} vers tout autre {1} dans un rayon de 5 tuiles.",
   "building.ability.route.and": " et ",
-  "building.ability.road": "Construire des routes pour relier les villes à la capitale". Les villes connectées reçoivent 1 habitant en récompense. Les routes donnent également un bonus de mouvement pour toutes les unités",
+  "building.ability.road": "Construire des routes pour relier les villes à la capitale. Les villes connectées reçoivent 1 habitant en récompense. Les routes donnent également un bonus de mouvement pour toutes les unités",
   "building.ability.ruin": "Une ruine d'une ancienne civilisation, elle peut contenir des choses de valeur ! Allez-y avec une unité pour l'examiner",
   "building.ability.patina": "{0} grandit avec le temps, alors essayez de les construire le plus tôt possible.",
   "building.ability.limited": "Vous ne pouvez construire qu'un seul {0} par ville.",
