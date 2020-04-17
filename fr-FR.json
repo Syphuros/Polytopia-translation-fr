@@ -393,7 +393,7 @@
   "tooltip.unit.decay.now": "Cette unité se dissoudra à la fin de ce tour.", 
   "tooltip.unit.decay.later": "Cette unité se dissoudra au bout de {0} tours.", 
   "tooltip.ability.disband": "Retirez une de vos propres unités et obtenez la moitié de son coût en retour.",
-  "tooltip.ability.destroy": "Retirez tout bâtiment situé à l'intérieur de vos frontières, ce qui est parfait pour reconstruire votre empire."
+  "tooltip.ability.destroy": "Retirez tout bâtiment situé à l'intérieur de vos frontières, ce qui est parfait pour reconstruire votre empire.",
   "tooltip.ability.literacy": "Réduisez le prix de toutes les technologies de 20 %.",
   "tooltip.ability.glide": "Toutes les unités qui ne patinent pas ont un mouvement supplémentaire lorsqu'elles se déplacent sur la glace.",
   "tooltip.ability.dash": "Cette unité peut attaquer après avoir bougé s'il y a un ennemi à portée.",
