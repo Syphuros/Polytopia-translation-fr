@@ -83,7 +83,7 @@
   "gamesettings.online.disabled.info": "Il y a certaines choses que vous devez régler pour jouer en ligne en mode multijoueur",
   "gamesettings.online.info": "Jouez avec vos amis en ligne en utilisant notre serveur multijoueur",
   "gamesettings.passplay.info": "Jouez avec vos amis hors ligne sur cet appareil en le faisant circuler",
-  "gamesettings.size.tiles": "Jouez avec vos amis en ligne en utilisant notre serveur multijoueur : "{0} carte des tuiles.",
+  "gamesettings.size.tiles": "Jouez avec vos amis en ligne en utilisant notre serveur multijoueur : {0} carte des tuiles.",
   "gamesettings.continue": "CONTINUER",
 
   "gamemode.perfection.caps": "PERFECTION",
