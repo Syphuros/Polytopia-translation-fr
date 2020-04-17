@@ -9,7 +9,7 @@
   "startmenu.about": "A propos",
 
   "news.title": "POLYTOPIA NEWS",
-  "news.description": "Bienvenue ! C'est ici que nous partageons les dernières nouvelles de l'univers Polytopia. Restez à l'écoute !"
+  "news.description": "Bienvenue ! C'est ici que nous partageons les dernières nouvelles de l'univers Polytopia. Restez à l'écoute!",
   "gamemodepicker.title": "GAME MODE",
 
   "tribepicker.title": "CHOISISSEZ VOTRE TRIBU",
@@ -162,36 +162,36 @@
   "world.meet.tribe" : "Vous rencontrez {0}",
   "world.task.new" : "Vous avez une nouvelle tâche !",
   
-  "tribus.nature" : "Nature",
-  "tribes.xin-xi" : "Xin-xi",
-  "tribes.xin-xi.info" : "Ils commencent leur voyage dans les montagnes denses, entourés de belles fleurs de cerisier. Le jeu commence avec la technologie '{1}'.",
-  "tribes.imperius" : "Imperius",
-  "tribes.imperius.info" : "D'immenses montagnes et de vertes vallées. Le climat {0} est parfait pour la culture des fruits. \n\n{0} La partie commence avec la technologie '{1}'.",
-  "tribes.bardur" : "Bardur",
-  "tribes.bardur.info" : "Survivre au rude hiver éternel des bois {0} n'est pas une tâche facile, mais {0} il semble que l'on puisse s'épanouir ici. \n\n{0} La partie commence avec la technologie '{1}' ".
-  "tribes.oumaji" : "Oumaji",
-  "tribes.oumaji.info" : "Le désert apparemment sans fin, béni du soleil, est la maison de la tribu {0}. \n\n{0} La partie commence avec la technologie '{1}' .",
-  "tribes.kickoo" : "Kickoo",
-  "tribes.kickoo.info" : "Plages de sable blanc avec des cocotiers. Abondance de fruits et de poissons. Bienvenue dans la maison des {0}.\n\n{0} La partie commence avec la technologie '{1}'."
-  "tribes.hoodrick" : "Hoodrick",
-  "tribes.hoodrick.info" : "Les feuilles jaunes d'automne des bois {0} sont des cachettes parfaites pour ses habitants singuliers, farcis de champignons. \n\n{0} La partie commence avec la technologie '{1}'."
-  "tribes.luxidoor" : "Luxidoor",
-  "tribes.luxidoor.info" : "Les {0} aiment les choses chères, les bijoux, les épices rares et les ornements exclusifs. C'est aussi pourquoi ils sont la tribu la plus chère de Pologne ! Leurs citoyens mènent une vie très confortable, drapés dans la soie violette la plus fine. Mais survivront-ils en dehors des murs de leur capitale bien-aimée ? \n\n{0} commence le jeu avec une énorme capitale murée.",
-  "Tribus.vengir" : "Vengir",
-  "tribes.vengir.info" : "Mal vu par les autres tribus et poussé dans les désolants terrains vagues. Toléreront-elles cette injustice ou se lèveront-elles pour se défendre ?  \n\n{0} La partie commence avec la technologie '{1}' et un puissant Swordman.",
-  "tribes.zebasi" : "Zebasi",
-  "tribes.zebasi.info" : "{0} prospèrent dans la savane chaude, cultivant le sol riche pour fournir de la nourriture à leur puissante population. \n\n{0} La partie commence avec la technologie '{1}'."
-  "tribes.zebasi.news" : "Tous les profits de la tribu Zebasi sont investis dans des projets d'énergie solaire.",
-  "tribes.aimo" : "Ai-Mo",
-  "tribes.aimo.info" : "La tribu tranquille et sage {0} habite la chaîne de montagnes la plus dure, la plus venteuse et la plus haute de la place, où elle a trouvé la paix intérieure en méditant dans la lumière éternelle du soir. \n\n{0} La partie commence avec la technologie '{1}'."
-  "tribes.aquarion" : "Aquarion",
+  "tribus.nature": "Nature",
+  "tribes.xin-xi": "Xin-xi",
+  "tribes.xin-xi.info": "Ils commencent leur voyage dans les montagnes denses, entourés de belles fleurs de cerisier. Le jeu commence avec la technologie '{1}'.",
+  "tribes.imperius": "Imperius",
+  "tribes.imperius.info": "D'immenses montagnes et de vertes vallées. Le climat {0} est parfait pour la culture des fruits. \n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.bardur": "Bardur",
+  "tribes.bardur.info": "Survivre au rude hiver éternel des bois {0} n'est pas une tâche facile, mais {0} il semble que l'on puisse s'épanouir ici. \n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.oumaji": "Oumaji",
+  "tribes.oumaji.info": "Le désert apparemment sans fin, béni du soleil, est la maison de la tribu {0}. \n\n{0} La partie commence avec la technologie '{1}' .",
+  "tribes.kickoo": "Kickoo",
+  "tribes.kickoo.info": "Plages de sable blanc avec des cocotiers. Abondance de fruits et de poissons. Bienvenue dans la maison des {0}.\n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.hoodrick": "Hoodrick",
+  "tribes.hoodrick.info": "Les feuilles jaunes d'automne des bois {0} sont des cachettes parfaites pour ses habitants singuliers, farcis de champignons. \n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.luxidoor": "Luxidoor",
+  "tribes.luxidoor.info": "Les {0} aiment les choses chères, les bijoux, les épices rares et les ornements exclusifs. C'est aussi pourquoi ils sont la tribu la plus chère de Pologne ! Leurs citoyens mènent une vie très confortable, drapés dans la soie violette la plus fine. Mais survivront-ils en dehors des murs de leur capitale bien-aimée ? \n\n{0} commence le jeu avec une énorme capitale murée.",
+  "Tribus.vengir": "Vengir",
+  "tribes.vengir.info": "Mal vu par les autres tribus et poussé dans les désolants terrains vagues. Toléreront-elles cette injustice ou se lèveront-elles pour se défendre ?  \n\n{0} La partie commence avec la technologie '{1}' et un puissant Swordman.",
+  "tribes.zebasi": "Zebasi",
+  "tribes.zebasi.info": "{0} prospèrent dans la savane chaude, cultivant le sol riche pour fournir de la nourriture à leur puissante population. \n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.zebasi.news": "Tous les profits de la tribu Zebasi sont investis dans des projets d'énergie solaire.",
+  "tribes.aimo": "Ai-Mo",
+  "tribes.aimo.info": "La tribu tranquille et sage {0} habite la chaîne de montagnes la plus dure, la plus venteuse et la plus haute de la place, où elle a trouvé la paix intérieure en méditant dans la lumière éternelle du soir. \n\n{0} La partie commence avec la technologie '{1}'.",
+  "tribes.aquarion": "Aquarion",
   "tribes.aquarion.info" : "Des profondeurs des océans, une civilisation disparue depuis longtemps apparaît ! Leur isolement extrême leur a donné des capacités aquatiques spéciales qui sont inconnues des autres tribus plus humaines. Ils ont un arbre technologique légèrement différent et ont accès à des unités de tortues amphibies uniques qu'aucune autre tribu ne peut former.",
   "Tribus.quetzali" : "Quetzali",
   "tribes.quetzali.info" : "La tribu des {0} adore les dieux oiseaux de la terre rouge et vit en harmonie avec la symétrie naturelle de leurs jungles cubistes. On les voit souvent chevaucher d'énormes oiseaux incapables de voler.\n\n{0} La partie commence avec la technologie '{1}'."
   "tribes.elyrion" : "∑∫ỹriȱŋ",
   "tribes.elyrion.info" : "Les mystérieux {0} défendent leurs maisons en forêt avec une magie colorée et la férocité des dragons cracheurs de feu ! \Ils considèrent la nature comme un esprit saint et ne peuvent pas chasser les animaux ou abattre les arbres, mais ils commencent le jeu avec la technologie unique d'enchantement qui peut transformer les animaux ordinaires en monstres puissants.",
   "Tribus.yadakk" : "Yădakk",
-  "tribes.yadakk.info" : "Les {0} ont commencé comme une tribu nomade dans les belles et rudes plaines de Khalee. Aujourd'hui, ils sont les commerçants de la place, reliant leur empire à d'impressionnantes routes commerciales. \n\n{0} La partie commence avec la technologie '{1}'."
+  "tribes.yadakk.info" : "Les {0} ont commencé comme une tribu nomade dans les belles et rudes plaines de Khalee. Aujourd'hui, ils sont les commerçants de la place, reliant leur empire à d'impressionnantes routes commerciales. \n\n{0} La partie commence avec la technologie '{1}'.",
   "Tribus.polaris" : "Polaris",
   "tribes.polaris.info" : "Les {0} ont été emprisonnés dans les confins de la toundra glacée pendant des éons, mais ils ont été bénis par les inconnus Gaami qui ont eu le pouvoir d'étendre leur terrain glacé non naturel plus loin que le temps ne le permettait. \Avec la puissance des traîneaux et des Mamoos, les mystiques {0} sont déterminés à ensevelir la place dans la glace et à transformer la terre en un paradis glacé. \n\n{0} commence la partie avec la capacité de geler le terrain environnant en utilisant des Mamoos.",
 
